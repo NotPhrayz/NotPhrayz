@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jack Marston (@NotPhrayz)
 
-Welcome to my GitHub! I'm a **Website Developer** and **Discord Bot Developer** with a passion for creating impactful and efficient software solutions. Here's a bit about me:
+Welcome to my GitHub! I'm a **14-year-old** aspiring **full-time developer** with a passion for creating impactful and efficient software solutions. Here's a bit about me:
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a **Website Developer** and **Discord Bot Developer** 
 - Software development, especially **web technologies** and **Discord bots**.
 - Contributing to **open-source** projects.
 - Exploring the intersection of **AI/ML** with web development.
-  
+
 ### 🌱 **Currently learning:**
 - **Full-stack Web Development**  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -26,6 +26,7 @@ Welcome to my GitHub! I'm a **Website Developer** and **Discord Bot Developer** 
 - Open-source **web development** projects.
 - Building **Discord bots** and exploring bot frameworks.
 - **AI-driven applications** and **machine learning** projects.
+- **Looking to become a full-time developer** and further my skills.
 
 ### 📫 **How to reach me:**
 - [Twitter](https://x.com/_Phrayz_)
