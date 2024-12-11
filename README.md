@@ -22,14 +22,19 @@ Welcome to my GitHub! I'm a **14-year-old** aspiring **full-time developer** wit
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
+---
+
+### 🌟 **Special Section**
+**I am the owner of Sweep Inc.** 🏢  
+As the founder of **Sweep Inc.**, I'm dedicated to providing innovative software solutions. If you're interested in collaborating on any development projects or have any ideas you'd like to explore, feel free to reach out!
+
+---
+
 ### 💬 **I’m looking to collaborate on:**
 - Open-source **web development** projects.
 - Building **Discord bots** and exploring bot frameworks.
 - **AI-driven applications** and **machine learning** projects.
 - **Looking to become a full-time developer** and further my skills.
-
-### 🏢 **Owner of Sweep Inc.**
-I am the owner of **Sweep Inc.**, a company dedicated to developing innovative software solutions.
 
 ### 📫 **How to reach me:**
 - [Twitter](https://x.com/_Phrayz_)
