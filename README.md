@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a **14-year-old** aspiring **full-time developer** wit
 
 ### 📫 **How to reach me:**
 - [Twitter](https://x.com/_Phrayz_)
-- Email: jack.marston@example.com
+- Email: ghostydripy@gmail.com
 
 ### 😄 **Pronouns:** He/Him
 
