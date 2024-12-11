@@ -28,36 +28,20 @@ Welcome to my GitHub! I'm a **14-year-old** aspiring **full-time developer** wit
 - **AI-driven applications** and **machine learning** projects.
 - **Looking to become a full-time developer** and further my skills.
 
+### 🏢 **Owner of Sweep Inc.**
+I am the owner of **Sweep Inc.**, a company dedicated to developing innovative software solutions.
+
 ### 📫 **How to reach me:**
 - [Twitter](https://x.com/_Phrayz_)
-- Email: [ghostydripy@gmail.com](mailto:ghostydripy@gmail.com)
+- Email: ghostydripy@gmail.com
 
 ### 😄 **Pronouns:** He/Him
 
 ---
 
-### 🌟 **Special Section:**
-
-Welcome to my **special section**! 🎉 Here, I share my unique goals and interests that keep me motivated on my development journey.
-
-#### 🎯 **Goals**:
-- 🧑‍💻 Become a **full-time developer** and work on cutting-edge tech.
-- 💡 Contribute to **AI-driven applications** and open-source projects.
-- 🌍 Build something that impacts the world positively through code.
-
-#### ⚡ **Key Interests**:
-- **Gaming** 🎮: Fortnite, Delta Force, and everything in between.
-- **Learning**: I’m always eager to learn new programming languages and technologies.
-
-#### 🛠️ **Current Focus**:
-- 📚 Learning about **Machine Learning** & **AI frameworks**.
-- 🖥️ Creating **web projects** that push the boundaries of modern development.
-
-#### 🌍 **My Website**:
-- Check ou my website: [Fake GitHub Page](https://phrazysite.fly.dev/)
-
-### **Stay tuned for updates! 🚀**
+### ⚡ **Fun fact:**
+- I love solving coding challenges, playing **Fortnite** 🕹️, and **Delta Force**. If you’re into gaming, feel free to reach out! 🎮
 
 ---
 
-Let's collaborate on exciting new projects and build something amazing together! ✨
+Feel free to check out my repositories and collaborate on exciting projects! Let’s build something awesome together 🚀
