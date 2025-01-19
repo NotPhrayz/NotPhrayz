@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jack Marston (@NotPhrayz)
+# 👋 Hi, I’m Jack (@NotPhrayz)
 
 Welcome to my GitHub! I'm a **14-year-old** aspiring **full-time developer** with a passion for creating impactful and efficient software solutions. Here's a bit about me:
 
